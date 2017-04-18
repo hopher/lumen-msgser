@@ -1,0 +1,22 @@
+{  
+    "name":"hongjh/lumen-msgser",
+    "description":"lumen 消息服务模块",  
+    "keywords": ["msgser", "laravel", "lumen"],
+    "type": "package",
+    "authors":[  
+        {  
+            "name":"hongjh",  
+            "email":"565983236@qq.com"  
+        }  
+    ],  
+    "minimum-stability":"dev",  
+    "require":{
+        "php": ">=5.6.4",
+        "cutv/tidecms": "dev-master"
+    },  
+    "autoload":{  
+        "psr-4":{  
+            "MsgService\\":"src/"
+        }
+    }
+}
