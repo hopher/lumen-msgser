@@ -3,6 +3,7 @@
     "description":"lumen 消息服务模块",  
     "keywords": ["msgser", "laravel", "lumen"],
     "type": "package",
+    "license": "MIT",
     "authors":[  
         {  
             "name":"hongjh",  
